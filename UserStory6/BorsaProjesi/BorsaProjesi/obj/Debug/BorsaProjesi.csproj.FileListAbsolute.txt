@@ -1,0 +1,93 @@
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\BorsaProjesi.csprojAssemblyReference.cache
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AcceptProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AcceptWallet.resources
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AdminForm.resources
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.BuyProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterPanel.resources
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UserForm.resources
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Wallet.resources
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\BorsaProjesi.csproj.GenerateResource.cache
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\BorsaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\enesy\OneDrive\Masaüstü\v5.2\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.csprojAssemblyReference.cache
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AcceptProduct.resources
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AcceptWallet.resources
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AdminForm.resources
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.BuyProduct.resources
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterPanel.resources
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UserForm.resources
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Wallet.resources
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.csproj.GenerateResource.cache
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Cengizhan\Desktop\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.csprojAssemblyReference.cache
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AcceptProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AcceptWallet.resources
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AdminForm.resources
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.BuyProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.RegisterPanel.resources
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.UserForm.resources
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Wallet.resources
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.csproj.GenerateResource.cache
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\enesy\OneDrive\Masaüstü\v6\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.LoginPanel.resources
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.csprojAssemblyReference.cache
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.csproj.GenerateResource.cache
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\bin\Debug\BorsaProjesi.exe.config
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\bin\Debug\BorsaProjesi.exe
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\bin\Debug\BorsaProjesi.pdb
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.AcceptProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.AcceptWallet.resources
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.AddProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.AdminForm.resources
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.BuyProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.LoginPanel.resources
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.RegisterPanel.resources
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.UserForm.resources
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.Wallet.resources
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.exe
+C:\Users\enesy\OneDrive\Masaüstü\Yazılım Yapımı Proje\v6\WindowsFormsApp3\obj\Debug\BorsaProjesi.pdb
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe.config
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.exe
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\bin\Debug\BorsaProjesi.pdb
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csprojAssemblyReference.cache
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.AcceptProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.AcceptWallet.resources
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.AddProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.AdminForm.resources
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.BuyProduct.resources
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.LoginPanel.resources
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Properties.Resources.resources
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.RegisterPanel.resources
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.UserForm.resources
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.Wallet.resources
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.GenerateResource.cache
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.exe
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.pdb
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.CreateReport.resources
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\bin\Debug\itextsharp.dll
+C:\Users\enesy\OneDrive\Masaüstü\Lessons\Yazılım Yapımı Proje\BorsaProjesi\BorsaProjesi\obj\Debug\BorsaProjesi.csproj.CopyComplete
